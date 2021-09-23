@@ -1,0 +1,132 @@
+body
+{
+	height: 100% ;
+	width: 100% ;
+	background: #D4E6F4; 
+	margin: 0px;
+	padding : 0px;
+	border: 0px;
+	font-size: 13px; 
+	line-height: 15px;
+	font-family: Verdana,Arial,Helvetica,sans-serif;
+}
+
+#header
+{
+	position:relative;
+	height: 100px ;
+	background: #1A446C; 
+	color: #D4E6F4;
+	padding :0px;
+	margin: 0px; 
+	text-align: left;
+}
+#header h1
+	{
+	 font-size: 40;
+	 padding: 1em; 
+	 margin: 0px;
+	}
+#header a
+	{
+	    color: #D4E6F4;
+	}
+	
+
+#main
+{
+position:relative;
+width:100%;
+min-height:600px;
+border: 1px solid yallow;
+margin: 10px;
+padding: 1em; 
+}
+#main table tr td
+{
+border: 1px solid black;
+}
+#footer
+{
+	position:relative;
+	height: 80px; 
+	text-align: center;
+	padding: 1em;
+	color: #D4E6F4;
+	background:#1A446C;
+}
+#loginbox
+{
+width:500px; 
+height:200px; 
+border:2px solid #aaa;
+border-radius:10px;
+-moz-border-radius:10px;
+-webkit-border-radius:10px;
+-moz-box-shadow:5px 5px 10px #aaa;
+-moz-transform: skew(2dig,2dig);
+margin-top:100px;
+margin-left:30%;
+padding:2em;
+}
+#newaccount
+{
+	margin:0px auto;
+	padding:2em;
+	width:80%;
+	min-height:600px;
+	padding:1em;
+	border:1px solid #aaa;
+	
+}
+#newaccount table,td
+{
+	border:hidden;
+
+}
+#log .logout
+	{
+	margin-left:70%;
+	vertical-align:top;
+	margin-top:5px;
+	}
+#log 
+	{
+	position:relative;
+	color:#D4E6F4;
+	margin-left:60%;
+	font-size:12px;
+	font-weight:bold;
+	font-family:sans-serif,fantasy;
+	vertical-align:top;
+	margin-top:-2%;
+	}
+#log a
+{
+	text-decoration:none;
+}
+.listphotos
+{
+
+}
+#profileinfo
+{
+	padding:2em;
+	margin-top:0px;
+	margin-left:70%;
+	border-left:2px solid #aaa;
+	min-height:2000px;
+}
+#stories
+{
+	
+	float:left;
+	padding:2em;
+	margin-top:0px;
+	margin-left:0%;
+	
+}
+#mian.img
+{
+	border:none;
+}

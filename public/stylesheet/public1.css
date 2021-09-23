@@ -1,0 +1,149 @@
+html
+{
+height:100%;
+width:100%;
+}
+body
+{
+	height: 100% ;
+	width: 100% ;
+	background: #fff; 
+	margin: 0px;
+	padding : 0px;
+	border: 0px;
+	font-size: 13px; 
+	line-height: 15px;
+	font-family: Verdana,Arial,Helvetica,sans-serif;
+}
+
+#header
+{
+	height: 100px ;
+	background: #1A446C; 
+	color: #D4E6F4;
+	padding :0px;
+	margin: 0px; 
+	text-align: left;
+}
+#header h1
+	{
+	 font-size: 40;
+	 padding: 1em; 
+	 margin: 0px;
+	}
+#header a
+	{
+	    color: #D4E6F4;
+	}
+	
+
+#main
+{
+background:#eee4b9;
+width:100%;
+min-height:600px;
+border: 1px solid yallow;
+margin: 0px;
+padding: 1em; 
+}
+#main table tr td
+{
+border: 1px solid black;
+}
+#footer
+{ 
+	height: 80px; 
+	text-align: center;
+	padding: 1em;
+	color: #D4E6F4;
+	background:#1A446C;
+}
+#loginbox
+{
+width:500px; 
+height:200px; 
+border:2px solid #aaa;
+margin-top:100px;
+margin-left:30%;
+padding:2em;
+}
+#log .logout
+	{
+	margin-left:70%;
+	vertical-align:top;
+	margin-top:5px;
+	}
+#log 
+	{
+	color:#D4E6F4;
+	margin-left:60%;
+	font-size:12px;
+	font-weight:bold;
+	font-family:sans-serif,fantasy;
+	vertical-align:top;
+	margin-top:-2%;
+	}
+#log a
+{
+text-decoration:none;
+}
+.listphotos
+{
+
+}
+#profileinfo
+{
+        vertical-align:top;
+	padding:2em;
+	margin-top:0px;
+	margin-left:70%;
+	border-left:2px solid #aaa;
+	min-height:1200px;
+}
+#profileinfo a
+{
+text-decoration:none;
+}
+
+#stories
+{
+	
+	float:left;
+	padding:2em;
+	margin-top:0px;
+	margin-left:0%;
+	
+}
+
+
+#myprofile
+{
+	
+	float:left;
+	padding:2em;
+	margin-top:0px;
+	margin-left:0%;
+	
+}
+#myprofile a
+{
+text-decoration:none;
+}
+
+#mian img
+{
+	border:none;
+}
+
+#photocomments
+{
+margin-left:30px;
+}
+
+
+ul.logentry
+{
+	color:blue;
+	
+	font-size:large;
+}
